@@ -1,0 +1,16 @@
+def soma(comp , larg):
+    a = comp * larg
+    print('=--=' * 25)
+    print (f'a soma de {comp}x{larg} é igual a {a} metros quadrados')
+    print('=--=' * 25)
+print ('=--=' * 25)
+C = float(input('COMPRIMENTO  >'))
+L = float(input('LARGURA   >'))
+soma(C, L)
+print ('FLAVIO É UM GATÃO')
+print ('ESPERO QUE VOCE TENHA CONSEGUIDO')
+print ('MEU EU DO FUTURO >>> CONFIO EM VOCE>>>')
+print (' 13/05/2022')
+print ('21:44')
+print ('amanha é sabado e tem aulaaaaaaaaaaaaaaaaa')
+print ('foda foda')
